@@ -4,3 +4,8 @@
   font-size: 12em;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+p {
+  color: white;
+  background-color: black;
+}
