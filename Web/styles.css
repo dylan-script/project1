@@ -1,11 +1,16 @@
 * {
   padding: 0;
   margin: 0;
-  font-size: 12em;
+  font-size: 2em;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p {
   color: white;
   background-color: black;
+}
+
+.programmer {
+  color: #00fff0;
+  font-size: 3rem;
 }
