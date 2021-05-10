@@ -3,16 +3,28 @@
   margin: 0;
 }
 
-p {
-  color: white;
-  background-color: black;
-}
-
 .programmer {
-  color: #00fff0;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
-a {
-  text-align: none;
+.programmer-h2-p_ol {
+  margin: 50px 150px 50px 150px;
+  text-align: center;
+  background-color: #000000;
+}
+
+.programmer-h2-p_ol-li {
+  padding: 5px;
+}
+.programmer-h2-p_ol a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.form {
+  margin: 50px 50px 50px;
+}
+
+.form-for-interview {
+  padding: 50px;
 }
