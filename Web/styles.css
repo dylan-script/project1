@@ -4,7 +4,8 @@
 }
 
 .programmer {
-  font-size: 2rem;
+  font-size: 1rem;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .programmer-h2-p_ol {
