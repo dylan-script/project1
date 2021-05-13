@@ -23,8 +23,13 @@
 
 .form {
   margin: 50px 50px 50px;
+  border: solid 1px #000000;
+  padding: 30px;
+  color: #fff;
+  background-color: #00ffffff;
+  font-size: 50px;
 }
 
 .form-for-interview {
-  padding: 50px;
+  padding: 20px;
 }
